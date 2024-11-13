@@ -1,1 +1,1 @@
-EbacSql para adição resultados queries do AWS Athena
+EbacSql para adição de resultados queries do AWS Athena
