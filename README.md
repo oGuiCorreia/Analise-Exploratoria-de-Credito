@@ -1,4 +1,4 @@
-# Análise de Crédito em SQL  
+# Análise de Crédito em SQL / Amazon AWS
 
 Este repositório contém a exploração e análise de dados de crédito de clientes de um banco, utilizando SQL no AWS Athena.  
 
